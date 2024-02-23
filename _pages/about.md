@@ -2,25 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>New York City Metropolitan Area</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am Chi, a hands-on data science leader with 10+ years data experience in academia and industry. My quantitative strengths lie in statistics and machine learning (including experimentation methodologies, value metric designs, productionalization of machine learning models on realtime A/B testing platform, uplift modeling, bayesian statistical modeling, etc.). Most recently, I have been expanding my tech specs into natural language processing, deep learning and LLM. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm experienced in leading data science teams and projects in:
+-  promoting healthcare/retail experimentation + ML personalization (e.g. omnichannel, content, timing optimization)
+-  identifying higher-value customer segments with propensity and uplift scores
+-  developing campaign performance measurement framework with frequentist/bayesian methods
+-  selecting patient cohort with ICD-10 code logics and machine learning
+-  scaling software development (front + backend) of forecasting models (rule-based + ML-based) on a cloud platform
+-  researching and developing generative AI agents with LLM and retriever augmentated generation (RAG)  
+
+During graduate studies, I was an environmental health researcher and biostatistician at Harvard focused on environmental pesiticide exposure and health risk simulation with statistical models. My doctoral [dissertation](https://dash.harvard.edu/bitstream/handle/1/37945631/CHANG-DISSERTATION-2018.pdf?sequence=3) was about linking sub-lethal pesticides exposure to honeybee colony collaspe disorder (CCD) and human health with novel biomarkers.  
