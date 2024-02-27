@@ -26,6 +26,6 @@ I'm experienced in leading data science teams and projects in:
 -  developing campaign performance measurement framework with frequentist/bayesian methods
 -  selecting patient cohort with ICD-10 code logics and machine learning
 -  scaling software development (front + backend) of forecasting models (rule-based + ML-based) on a cloud platform
--  researching and developing generative AI agents with LLM and retriever augmentated generation (RAG)  
+-  researching and developing generative AI agents with LLM and retriever augmented generation (RAG)  
 
 During graduate studies, I was an environmental health researcher and biostatistician at Harvard focused on environmental pesiticide exposure and health risk simulation with statistical models. My doctoral [dissertation](https://dash.harvard.edu/bitstream/handle/1/37945631/CHANG-DISSERTATION-2018.pdf?sequence=3) was about linking sub-lethal pesticides exposure to honeybee colony collaspe disorder (CCD) and human health with novel biomarkers.  
