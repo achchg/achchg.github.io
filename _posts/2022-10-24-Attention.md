@@ -24,5 +24,5 @@ On the contrary, the decoder network (language B) of the Attention model was tra
 
 
 Great video materials:
-- [Attention model](https://www.youtube.com/watch?v=FMXUkEbjf9k) by Andrew Ng.
+- [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A) by Andrew Ng.
   
