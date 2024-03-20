@@ -49,6 +49,6 @@ $$E(X^k) = \int_X x^k f(x) dx$$
 
 Therefore, the first moment of X is $$E(X)$$, which is the mean of the distribution; and the second moment of X is $$E(X^2)$$, which is the sum of mean squared and the variance ($$\text{Var}(X) = E(X^2) - E(X)^2$$).
 <!-- 
-Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/jupyternb/2022-09-29-Stochastic_gradient_descent.ipynb). -->
+Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/assets/jupyternb/2022-09-29-Stochastic_gradient_descent.ipynb). -->
 
 Original Adam paper is [here](https://arxiv.org/pdf/1412.6980.pdf); Helpful [documentation](https://gregorygundersen.com/blog/2020/04/11/moments/) of moment statistics.

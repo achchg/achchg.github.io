@@ -97,5 +97,5 @@ def random_circle_sample(R, N):
     plt.show()
 {% endhighlight %}
 
-Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/jupyternb/2022-09-28-Inverse_transform_sampling.ipynb).
+Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/assets/jupyternb/2022-09-28-Inverse_transform_sampling.ipynb).
 

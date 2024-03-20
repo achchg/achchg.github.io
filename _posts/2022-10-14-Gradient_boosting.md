@@ -97,4 +97,4 @@ Great video materials:
 - [StatQuest](https://www.youtube.com/watch?v=StWY5QWMXCw)
   
 <!-- 
-Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/jupyternb/2022-09-29-Stochastic_gradient_descent.ipynb). -->
+Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/assets/jupyternb/2022-09-29-Stochastic_gradient_descent.ipynb). -->

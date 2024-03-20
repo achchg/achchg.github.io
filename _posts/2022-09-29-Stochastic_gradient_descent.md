@@ -85,6 +85,6 @@ Pseudo code that I wrote from CS224 assignment. Here x is the parameter to be op
         x -= step * grad
 {% endhighlight %}
 
-Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/jupyternb/2022-09-29-Stochastic_gradient_descent.ipynb).
+Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/assets/jupyternb/2022-09-29-Stochastic_gradient_descent.ipynb).
 
 Great reference material can be found [here](https://web.stanford.edu/~jurafsky/slp3/5.pdf)

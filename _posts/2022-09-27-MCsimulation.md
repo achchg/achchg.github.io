@@ -52,5 +52,5 @@ def estimate_pi(R, N):
     return pi_hat
 {% endhighlight %}
 
-Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/jupyternb/2022-09-27-MCsimulation.ipynb).
+Example notebook with above example can be found [here](https://github.com/achchg/achchg.github.io/blob/master/assets/jupyternb/2022-09-27-MCsimulation.ipynb).
 
