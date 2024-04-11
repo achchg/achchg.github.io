@@ -30,4 +30,4 @@ identifying higher-value customer segments with propensity and uplift scores
 - generative AI agents R&D with LLMs and retriever augmented generation (RAG)
 
 
-During graduate studies, I was an environmental health researcher and biostatistician at Harvard focused on environmental pesiticide exposure and health risk simulation with statistical models. My doctoral [dissertation](https://dash.harvard.edu/bitstream/handle/1/37945631/CHANG-DISSERTATION-2018.pdf?sequence=3) was about linking sub-lethal pesticides exposure to honeybee colony collaspe disorder (CCD) and human health with novel biomarkers.  
+During graduate studies, I was an environmental health researcher and biostatistician at Harvard focused on environmental pesticide exposure and health risk simulation with statistical models. My doctoral [dissertation](https://dash.harvard.edu/bitstream/handle/1/37945631/CHANG-DISSERTATION-2018.pdf?sequence=3) was about linking sub-lethal pesticide exposure to honeybee colony collapse disorder (CCD) and human health with novel biomarkers.  
